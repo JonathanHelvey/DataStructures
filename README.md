@@ -10,7 +10,7 @@ Differant Algorithms and DataStructures from Various Sources.
 -LeetCode Problems
 ```
 
-### TESTING (TTD)
+### TESTING (TDD)
 -Test with Jest(https://jestjs.io/)
 
 #### RUN
