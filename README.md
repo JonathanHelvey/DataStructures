@@ -1,6 +1,6 @@
 # DataStructures
 
-Differant algorithms and data structures from various sources.
+Different algorithms and data structures from various sources.
 
 ## Credits Go To...
 ```
