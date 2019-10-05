@@ -1,8 +1,8 @@
-function fizBuzz(num) {
+function fizzBuzz(num) {
   let result = [];
   for (let i = 1; i <= num; i++) {
     if (i % 15 === 0) {
-      result.push("FizBuzz");
+      result.push("FizzBuzz");
     } else if (i % 3 === 0) {
       result.push("Fizz");
     } else if (i % 5 === 0) {
@@ -13,5 +13,5 @@ function fizBuzz(num) {
   }
   return result;
 }
-
-console.log(fizBuzz(15));
+module.exports = fizzBuzz;
+// console.log(fizzBuzz(15));
