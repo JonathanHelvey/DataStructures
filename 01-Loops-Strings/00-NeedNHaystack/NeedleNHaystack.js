@@ -1,3 +1,5 @@
+/* eslint-disable react/no-array-index-key */
+
 function findIndex(needle, haystack) {
   let nIndex = 0;
   for (let i = nIndex; i < haystack.length; i++) {
