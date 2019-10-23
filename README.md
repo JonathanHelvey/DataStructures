@@ -1,4 +1,4 @@
-# DataStructures
+<h1 align="center">DataStructures</h1>
 
 Different algorithms and data structures from various sources arcoss the inter webs.
 
