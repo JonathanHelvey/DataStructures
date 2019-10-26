@@ -49,7 +49,7 @@ npm run test -t 'TestNameGoesHere' --runs a single test
 01 - Loops-Strings
 02 - Arrays
 03 - Objects
-04 - Counters
+04 - Higher Order Functions
 05 - Recursion
 06 - Search Algos
 07 - Sort Algos
