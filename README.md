@@ -5,16 +5,17 @@ Different algorithms and data structures from various sources arcoss the inter w
 Prepare for coding bootcamps or job interviews with this all in one source!
 
 ## Get Started
+
 ```
 1. Fork Repo
 2. Clone Repo to your Computer
 3. NPM install (installs JEST)
-4. A - The `A` at the beginning of JS file means your ANSWER goes there. Answers are in the same file below the `A` file. 
-5. Commit Changes to your GitHub. 
+4. A - The `A` at the beginning of JS file means your ANSWER goes there. Answers are in the same file below the `A` file.
+5. Commit Changes to your GitHub.
         git add .
         git commit -m 'your message'
         git push origin master
-6. TRY NOT TO LOOK AT ANSWERS!!! 
+6. TRY NOT TO LOOK AT ANSWERS!!!
 
 
 ***Recomendations
@@ -26,19 +27,21 @@ Prepare for coding bootcamps or job interviews with this all in one source!
 ```
 
 ### TESTING (TDD)
+
 ```
 -Test with Jest(https://jestjs.io/)
-*Click on link for Jest Documentation.  
-More Commands can be found on the Jest website. 
+*Click on link for Jest Documentation.
+More Commands can be found on the Jest website.
 ```
 
 #### `RUN TESTS`
+
 ```
 npm test --runs all test once.
 
-npm run testWatch --runs/watches changes on all tests. 
+npm run testWatch --runs/watches changes on all tests.
 
-npm run test -t 'TestNameGoesHere' --runs a single test
+npm run test -t 'TestName' --runs a single test
 
 ```
 
@@ -60,6 +63,7 @@ MORE TO COME!
 ```
 
 ### `Credits Go To...`
+
 ```
 -The Missing Computer Science and Coding Interview Bootcamp --Colt Steel
 -Eloquent JavaScript Book --Marijn Haverbeke.
@@ -69,4 +73,5 @@ MORE TO COME!
 ```
 
 #### Created by
+
 Jonathan Helvey
