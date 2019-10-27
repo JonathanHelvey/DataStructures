@@ -1,4 +1,7 @@
+/* eslint-disable react/no-array-index-key */
+
 function fizzBuzz(num) {
+  debugger;
   let result = [];
   for (let i = 1; i <= num; i++) {
     if (i % 15 === 0) {
@@ -14,4 +17,4 @@ function fizzBuzz(num) {
   return result;
 }
 module.exports = fizzBuzz;
-// console.log(fizzBuzz(15));
+console.log(fizzBuzz(15));
