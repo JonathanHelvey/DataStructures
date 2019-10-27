@@ -45,6 +45,8 @@ npm run test -t 'TestName' --runs a single test
 
 ```
 
+\*\*\* `Debugger` You can run debugger in VS Code using VS Codes debugger tool. Launch.json file is included to debug in vscode with jest.
+
 ### Problem Set
 
 ```
