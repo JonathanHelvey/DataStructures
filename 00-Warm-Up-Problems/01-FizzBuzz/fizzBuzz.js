@@ -17,4 +17,4 @@ function fizzBuzz(num) {
   return result;
 }
 module.exports = fizzBuzz;
-console.log(fizzBuzz(15));
+// console.log(fizzBuzz(15));

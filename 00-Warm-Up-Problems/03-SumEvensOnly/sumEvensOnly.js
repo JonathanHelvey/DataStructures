@@ -12,4 +12,4 @@ function sumEvensOnly(num1, num2) {
   return sum;
 }
 module.exports = sumEvensOnly;
-console.log(sumEvensOnly(10, 20));
+// console.log(sumEvensOnly(10, 20));
