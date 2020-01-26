@@ -1,4 +1,4 @@
-
+// Code Wars
 // Your goal in this kata is to implement a difference function, which subtracts one list from another and returns the result.
 
 // It should remove all values from list a, which are present in list b.
@@ -9,14 +9,20 @@
 // array_diff([1,2,2,2,3],[2]) == [1,3]
 
 
+// const  array_diff = (arrA, arrB) => {
+//   let newArr = []
+//   arrA.forEach(number1 => {
+//     if(arrB.indexOf(number1) === -1) {
+//       newArr.push(number1)
+//     }
+//   })
+//   return newArr
+// }
+
 const  array_diff = (arrA, arrB) => {
-  let newArr = []
-  arrA.forEach(number1 => {
-    if(arrB.indexOf(number1) === -1) {
-      newArr.push(number1)
-    }
+  return arrA.filter((num) => {
+    return arrB.indexOf(num) === -1
   })
-  return newArr
 }
 
 // array_diff([1,2,2,2,3],[2]) // [1,3]
