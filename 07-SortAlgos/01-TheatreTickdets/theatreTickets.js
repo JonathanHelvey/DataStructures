@@ -17,6 +17,11 @@
 //   return combos.length
 // }
 
+
+//////////////////////////////
+
+// THIS BOTTOM ONE IS NOT RIGHT!
+
 const waysToUseTickets = (array) => {
   array.sort((a, b) => a - b)
   let combos = []
