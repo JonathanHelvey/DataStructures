@@ -30,4 +30,4 @@
 // each element of array A is an integer within the range [1..N].
 
 ### Credit
-[Codeility](https://app.codility.com/programmers/task/theater_tickets/) - Zinc 2018 Challenge
+[Codeility](https://app.codility.com/programmers/task/theater_tickets/) - Zinc 2018 Challenge.
